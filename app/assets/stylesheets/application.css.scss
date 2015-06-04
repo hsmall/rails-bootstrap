@@ -13,22 +13,3 @@
  *= require_tree .
  *= require_self
  */
- body{
-	font-family: sans-serif;
-}
-h1 {
-	text-align: center;
-}
-
-p{
-	text-indent: 25pt;
-	text-align: justify;
-}
-p.block-quote{
-	padding: 10px;
-	border: 1px black solid;
-	text-indent: 0pt;
-	font-style: italic;
-	margin-left: 50pt;
-	margin-right: 50pt;
-}
